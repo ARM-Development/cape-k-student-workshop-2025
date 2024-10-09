@@ -1,2 +1,2 @@
-# cape-k-student-workshop-2025
+# Cape-k Student Workshop
 Student workshop near the Cape-k Field Site
