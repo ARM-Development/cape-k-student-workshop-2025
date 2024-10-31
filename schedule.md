@@ -15,16 +15,16 @@
 | 10:00 AM - 11:00 AM  | [Intro to Pythia + Binder](https://docs.google.com/presentation/d/1iZYW8Ch-pC5R0qn1eDfTA6YCqK1qugX4/edit?usp=sharing&ouid=104304750518137712212&rtpof=true&sd=true)            | Max Grover |
 | 11:00 AM - 12:00 PM  | [Intro to ARM Open Source Software](https://docs.google.com/presentation/d/1e4IAEWNxw2ly8HTMcuz4fLhwpBNcrg2D/edit?usp=sharing&ouid=104304750518137712212&rtpof=true&sd=true)      | Scott Collis + Max Grover         |
 | 12:00 PM - 01:00 PM  | Lunch                                  |                                    |
-| 01:00 PM - 01:45 PM  | Fundamentals in Aerosol Physics                          |    Ali Wiedensohler                     |
-| 01:45 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation                  |    Ali Wiedensohler                     |
+| 01:00 PM - 01:45 PM  | Fundamentals in Aerosol Physics                          |    Alfred Wiedensohler                     |
+| 01:45 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation                  |    Alfred Wiedensohler                     |
 | 02:30 PM - 03:00 PM  | Coffee/Tea Break                       |                                    |
-| 03:00 PM - 03:45 PM  | Hands on with some Aerosol Data at Cape Grim             | Ali Wiedensohler                    |
+| 03:00 PM - 03:45 PM  | Hands on with some Aerosol Data at Cape Grim             | Alfred Wiedensohler                    |
 | 03:45 PM - 05:00 PM  | Meet the Mentors                       | Max Grover + Scott Collis          |
 
 ## Tuesday February 4, 2025
 
 Field Day Tour! Schedule TBD
-- Will include some in-field demonstrations, tutorial/lecture from Ali Wiedensohler
+- Will include some in-field demonstrations, tutorial/lecture from Alfred Wiedensohler
                           |
 
 ## Wednesday February 5, 2025
