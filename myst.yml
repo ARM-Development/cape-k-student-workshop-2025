@@ -11,6 +11,8 @@ project:
     - name: Scott Collis
       orcid: 0000-0002-2303-687X
       github: scollis
+    - name: Alfred Wiedensohler
+      orcid: https://orcid.org/0000-0001-8298-491X
   copyright: '2024'
   toc:
     - file: README.md
