@@ -46,8 +46,9 @@ Field Day Tour! Schedule TBD
 | 08:30 AM - 09:30 AM  | Office Hours - Any Issues?        | TBD                         |
 | 09:30 AM - 10:00 AM  | Coffee/Tea Break                  |                                    |
 | 10:00 AM - 12:00 PM  | Group Project Work Time     | Everyone        |
-| 12:00 PM - 01:00 PM  | Lunch          | Max Grover                         |
-| 01:00 PM - 03:00 PM  | Group Project Presentation Prep |  Everyone                |                        |
+| 12:00 PM - 01:00 PM  | Group Project Presentation Prep |  Everyone                |                        |
+| 01:00 PM - 02:00 PM  | Lunch          | Max Grover                         |
+| 02:00 PM - 03:00 PM  | Group Project Presentation Prep |  Everyone                |                        |
 | 03:00 PM - 05:00 PM  | Group Presentations |  Everyone                |                        |
 
 
