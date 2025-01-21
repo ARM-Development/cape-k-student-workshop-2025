@@ -19,7 +19,7 @@
 | 01:00 PM - 01:45 PM  | Fundamentals in Aerosol Physics                          |    Alfred Wiedensohler                     |
 | 01:45 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation                  |    Alfred Wiedensohler                     |
 | 02:30 PM - 03:00 PM  | Coffee/Tea Break                       |                                    |
-| 03:00 PM - 03:45 PM  | Hands on with some Aerosol Data at Cape Grim             | Alfred Wiedensohler                    |
+| 03:00 PM - 03:45 PM  | Intro to Cloud Physics                 | Steven Siems + Yi Huang            |
 | 03:45 PM - 04:00 PM  | Coffee/Tea Break                       |                                    |
 | 04:00 PM - 04:30 PM  | Aerosol Cloud Interactions             | Yi Huang                           |
 | 04:30 PM - 05:00 PM  | Meet the Mentors                       | Max Grover + Scott Collis          |
