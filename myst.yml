@@ -20,6 +20,11 @@ project:
     - title: Introduction to ARM Open-Source Software
       children:
         - file: notebooks/act/act-tutorial
+    - title: Exploratory Analysis
+      children:
+        - file: notebooks/pandas/exploratory-analysis-with-pandas.ipynb
+        - file: notebooks/xarray/xarray-into.ipynb
+
   jupyter:
       binder:
         repo: ARM-Development/cape-k-student-workshop-2025

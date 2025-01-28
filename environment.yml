@@ -7,7 +7,7 @@ dependencies:
   - jupyterlab
   - xarray
   - matplotlib
-  - dask
+  - dask[complete]
   - distributed
   - arm_pyart
   - act-atmos
@@ -17,6 +17,10 @@ dependencies:
   - emc2
   - cmweather
   - myst-parser
+  - hvplot
+  - holoviews
+  - datashader
+  - geoviews
   - pip
   - pip:
       - git+https://github.com/eagles-project/ESMAC_diags
