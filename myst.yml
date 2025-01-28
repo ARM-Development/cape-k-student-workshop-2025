@@ -23,7 +23,7 @@ project:
     - title: Exploratory Analysis
       children:
         - file: notebooks/pandas/exploratory-analysis-with-pandas.ipynb
-        - file: notebooks/xarray/xarray-into.ipynb
+        - file: notebooks/xarray/xarray-intro.ipynb
 
   jupyter:
       binder:
