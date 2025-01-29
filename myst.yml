@@ -80,9 +80,9 @@ site:
   nav:
     - title: ARM Home
       url: https://www.arm.gov/
-    - title: ARM CAPE-k Website
+    - title: CAPE-k Website
       url: https://www.arm.gov/research/campaigns/amf2024cape-k
-    - title: CAPE-k Workshop Information Packet
+    - title: Info Packet
       url: https://github.com/mgrover1/cape-k-student-workshop-2025/blob/8fd3982e16cc7fa22a7de1b4e68ddab8586c6cab/cape-k-student-workshop-packet.pdf
   actions:
     - title: Launch Environment
