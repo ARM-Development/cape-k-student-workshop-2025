@@ -58,6 +58,7 @@ project:
   copyright: '2025'
   toc:
     - file: README.md
+    - file: schedule.md
     - title: Introduction to ARM Open-Source Software
       children:
         - file: notebooks/act/act-tutorial
