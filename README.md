@@ -35,7 +35,7 @@ We thank the following organisations for their sponsorship of participating stud
 | :---:                |    :----:                              |    :---:                           |
 | 08:30 AM - 09:30 AM  | [Intro to Cape-k, ARM, Welcome](https://docs.google.com/presentation/d/1X1lc7fCF4jDaD_nUZ8l6X7-4O0ZR3eB7/edit?usp=sharing&ouid=104304750518137712212&rtpof=true&sd=true)                  | Scott Collis     |
 | 09:30 AM - 10:00 AM  | Coffee Break                           |                                    |
-| 10:00 AM - 11:00 AM  | [Intro to Pythia + Binder](https://docs.google.com/presentation/d/1iZYW8Ch-pC5R0qn1eDfTA6YCqK1qugX4/edit?usp=sharing&ouid=104304750518137712212&rtpof=true&sd=true)            | Max Grover |
+| 10:00 AM - 11:00 AM  | [Intro to ARM Open Source Software](https://arm-development.github.io/cape-k-student-workshop-2025/act-tutorial)            | Max Grover |
 | 11:00 AM - 12:00 PM  | Intro to Cape Grim Meteorology and Cloud Physics     |  Steve Siems and Yi Huang         |
 | 12:00 PM - 01:00 PM  | Lunch                                  |                                    |
 | 01:00 PM - 01:45 PM  | Fundamentals in Aerosol Physics                          |    Alfred Wiedensohler                     |
