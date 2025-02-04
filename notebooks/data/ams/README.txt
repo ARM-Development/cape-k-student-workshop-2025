@@ -1,0 +1,2 @@
+Here is the AMS data. Due to problems with the instrument at the start of campaign we started sampling with this one in the first half of Nov.
+The data contains time series of the standard AMS species (organics, sulfate, ammonium, nitrate, chloride) + a mass fragment that is used as a proxy for MSA.
