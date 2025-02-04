@@ -54,7 +54,7 @@ Field Day Tour! Meet at your respective hotel/site to be transported to the KCG 
 
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
-| 08:30 AM - 09:00 AM  | Project Pitches                        | TBD                     |
+| 08:30 AM - 09:00 AM  | [Project Pitches](https://docs.google.com/presentation/d/18utZg19c3eoz_lBq0wFX--jKw5Rd7e46z7NI-hXzFu0/edit?usp=sharing)                        | TBD                     |
 | 09:00 AM - 09:30 AM  | Formulate your Questions: What are you interested in?        | TBD                    |
 | 09:30 AM - 10:00 AM  | Intro to the ARM Campaign Resources    |                                    |
 | 10:00 AM - 10:30 AM  | Coffee Break                           |                                    |
