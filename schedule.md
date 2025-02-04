@@ -1,5 +1,4 @@
 # Schedule
-
 ## Sunday February 2, 2025
 
 | Time                | Topic                  | Presenter(s)                       |
@@ -12,7 +11,7 @@
 | :---:                |    :----:                              |    :---:                           |
 | 08:30 AM - 09:30 AM  | [Intro to Cape-k, ARM, Welcome](https://docs.google.com/presentation/d/1X1lc7fCF4jDaD_nUZ8l6X7-4O0ZR3eB7/edit?usp=sharing&ouid=104304750518137712212&rtpof=true&sd=true)                  | Scott Collis     |
 | 09:30 AM - 10:00 AM  | Coffee Break                           |                                    |
-| 10:00 AM - 11:00 AM  | [Intro to Pythia + Binder](https://docs.google.com/presentation/d/1iZYW8Ch-pC5R0qn1eDfTA6YCqK1qugX4/edit?usp=sharing&ouid=104304750518137712212&rtpof=true&sd=true)            | Max Grover |
+| 10:00 AM - 11:00 AM  | [Intro to ARM Open Source Software](https://arm-development.github.io/cape-k-student-workshop-2025/act-tutorial)            | Max Grover |
 | 11:00 AM - 12:00 PM  | Intro to Cape Grim Meteorology and Cloud Physics     |  Steve Siems and Yi Huang         |
 | 12:00 PM - 01:00 PM  | Lunch                                  |                                    |
 | 01:00 PM - 01:45 PM  | Fundamentals in Aerosol Physics                          |    Alfred Wiedensohler                     |
@@ -31,12 +30,14 @@ Field Day Tour! Meet at your respective hotel/site to be transported to the KCG 
 
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
-| 08:30 AM - 09:30 AM  | Forming your Science Questions + Hypotheses        | TBD                         |
-| 09:30 AM - 10:00 AM  | Coffee Break                           |                                    |
-| 10:00 AM - 11:15 AM  | [Exploratory Data Analysis](notebooks/pandas/exploratory-analysis-with-pandas.ipynb)     | Max Grover + Scott Collis        |
-| 11:15 AM - 12:00 PM  | Initial Project Updates  | Everyone                      |
+| 08:30 AM - 09:00 AM  | Project Pitches                        | TBD                     |
+| 09:00 AM - 09:30 AM  | Formulate your Questions: What are you interested in?        | TBD                    |
+| 09:30 AM - 10:00 AM  | Intro to the ARM Campaign Resources    |                                    |
+| 10:00 AM - 10:30 AM  | Coffee Break                           |                                    |
+| 10:30 AM - 11:15 AM  | [Exploratory Data Analysis](notebooks/pandas/exploratory-analysis-with-pandas.ipynb)     | Max Grover + Scott Collis        |
+| 11:15 AM - 12:00 PM  | Intro to ARM Accounts/Github  | Everyone                      |
 | 12:00 PM - 01:00 PM  | Lunch          |                         |
-| 01:00 PM - 05:00 PM  | Group Work!    |                                    |
+| 01:00 PM - 05:00 PM  | Group Work!    |                                    |                                  |
 
 ## Thursday February 6, 2025
 
@@ -50,3 +51,7 @@ Field Day Tour! Meet at your respective hotel/site to be transported to the KCG 
 | 04:00 PM - 05:00 PM  | Workshop Recap |  Everyone                |                        |
 | 05:00 PM - 07:00 PM  | Return to hotel and prepare for dinner              |           |
 | 07:00 PM - ?  | Stanley Hotel Bistro              |           |
+
+## Friday February 7, 2025
+
+Travel Home!

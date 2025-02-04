@@ -54,12 +54,14 @@ Field Day Tour! Meet at your respective hotel/site to be transported to the KCG 
 
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
-| 08:30 AM - 09:30 AM  | Forming your Science Questions + Hypotheses        | TBD                         |
-| 09:30 AM - 10:00 AM  | Coffee Break                           |                                    |
-| 10:00 AM - 11:15 AM  | [Exploratory Data Analysis](notebooks/pandas/exploratory-analysis-with-pandas.ipynb)     | Max Grover + Scott Collis        |
-| 11:15 AM - 12:00 PM  | Initial Project Updates  | Everyone                      |
+| 08:30 AM - 09:00 AM  | Project Pitches                        | TBD                     |
+| 09:00 AM - 09:30 AM  | Formulate your Questions: What are you interested in?        | TBD                    |
+| 09:30 AM - 10:00 AM  | Intro to the ARM Campaign Resources    |                                    |
+| 10:00 AM - 10:30 AM  | Coffee Break                           |                                    |
+| 10:30 AM - 11:15 AM  | [Exploratory Data Analysis](notebooks/pandas/exploratory-analysis-with-pandas.ipynb)     | Max Grover + Scott Collis        |
+| 11:15 AM - 12:00 PM  | Intro to ARM Accounts/Github  | Everyone                      |
 | 12:00 PM - 01:00 PM  | Lunch          |                         |
-| 01:00 PM - 05:00 PM  | Group Work!    |                                    |
+| 01:00 PM - 05:00 PM  | Group Work!    |                                    |                                  |
 
 ### Thursday February 6, 2025
 
