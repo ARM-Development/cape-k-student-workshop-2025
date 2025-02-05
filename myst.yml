@@ -59,6 +59,7 @@ project:
   toc:
     - file: README.md
     - file: schedule.md
+    - file: projects.md
     - title: Introduction to ARM Open-Source Software
       children:
         - file: notebooks/act/act-tutorial
